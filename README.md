@@ -1,1 +1,1 @@
-# zfish_skin
+# Zebrafish skin transcriptomics
