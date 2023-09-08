@@ -1,0 +1,158 @@
+cell_type,up_in,id,gene_short_name,genotype,pathway
+Basal Cell,Bon,ENSDARG00000013168,jag1b,bon,Delta-Notch signaling pathway
+Basal Cell,Bon,ENSDARG00000035056,fgf13a,bon,FGF signaling pathway
+Muscle,Bon,ENSDARG00000069662,fgf11a,bon,FGF signaling pathway
+pre-SFC,Bon,ENSDARG00000088048,fgf18a,bon,FGF signaling pathway
+Basal Cell,Bon,ENSDARG00000110069,pdgfaa,bon,MAPK signaling pathway
+pre-SFC,Bon,ENSDARG00000088048,fgf18a,bon,MAPK signaling pathway
+pre-SFC,Bon,ENSDARG00000071107,wnt7bb,bon,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000063230,bmp7b,bon,BMP signaling pathway
+Hypodermis,WT,ENSDARG00000079323,rgmb,bon,BMP signaling pathway
+Periderm,WT,ENSDARG00000012248,rgma,bon,BMP signaling pathway
+pre-SFC,WT,ENSDARG00000015686,bmp6,bon,BMP signaling pathway
+pre-SFC,WT,ENSDARG00000103679,bmp16,bon,BMP signaling pathway
+SFC,WT,ENSDARG00000035677,bmp8a,bon,BMP signaling pathway
+SFC,WT,ENSDARG00000015686,bmp6,bon,BMP signaling pathway
+Suprabasal Cell,WT,ENSDARG00000012248,rgma,bon,BMP signaling pathway
+Periderm,WT,ENSDARG00000070425,dll4,bon,Delta-Notch signaling pathway
+Basal Cell,WT,ENSDARG00000109371,pdgfaa,bon,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000086778,pdgfba,bon,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000098578,pdgfab,bon,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000077588,pdgfc,bon,MAPK signaling pathway
+Hypodermis,WT,ENSDARG00000027087,tgfb2,bon,MAPK signaling pathway
+Hypodermis,WT,ENSDARG00000077588,pdgfc,bon,MAPK signaling pathway
+Periderm,WT,ENSDARG00000059043,ntf3,bon,MAPK signaling pathway
+Suprabasal Cell,WT,ENSDARG00000059043,ntf3,bon,MAPK signaling pathway
+Suprabasal Cell,WT,ENSDARG00000086778,pdgfba,bon,MAPK signaling pathway
+Hypodermis,WT,ENSDARG00000027087,tgfb2,bon,Transforming Growth Factor (TGF) Beta Signaling Pathway
+SFC,WT,ENSDARG00000010785,thbs1b,bon,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Basal Cell,WT,ENSDARG00000002483,wnt7ab,bon,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000044827,wnt7aa,bon,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000073935,wnt6b,bon,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000058822,wnt3a,bon,Wnt signaling pathway
+Iridophore,WT,ENSDARG00000014796,wnt11r,bon,Wnt signaling pathway
+Periderm,WT,ENSDARG00000071107,wnt7bb,bon,Wnt signaling pathway
+Suprabasal Cell,WT,ENSDARG00000071107,wnt7bb,bon,Wnt signaling pathway
+Suprabasal Cell,WT,ENSDARG00000044827,wnt7aa,bon,Wnt signaling pathway
+Basal Cell,hypoTH,ENSDARG00000079323,rgmb,hypoth,BMP signaling pathway
+Basal Cell,hypoTH,ENSDARG00000063230,bmp7b,hypoth,BMP signaling pathway
+Goblet Cell,hypoTH,ENSDARG00000063230,bmp7b,hypoth,BMP signaling pathway
+Hypodermis,hypoTH,ENSDARG00000079323,rgmb,hypoth,BMP signaling pathway
+Periderm,hypoTH,ENSDARG00000079323,rgmb,hypoth,BMP signaling pathway
+Periderm,hypoTH,ENSDARG00000063230,bmp7b,hypoth,BMP signaling pathway
+SFC,hypoTH,ENSDARG00000035677,bmp8a,hypoth,BMP signaling pathway
+Basal Cell,hypoTH,ENSDARG00000104279,appa,hypoth,Delta-Notch signaling pathway
+Periderm,hypoTH,ENSDARG00000070425,dll4,hypoth,Delta-Notch signaling pathway
+Periderm,hypoTH,ENSDARG00000053468,adam10a,hypoth,Delta-Notch signaling pathway
+Suprabasal Cell,hypoTH,ENSDARG00000104279,appa,hypoth,Delta-Notch signaling pathway
+Suprabasal Cell,hypoTH,ENSDARG00000053468,adam10a,hypoth,Delta-Notch signaling pathway
+Basal Cell,hypoTH,ENSDARG00000077677,pdgfd,hypoth,MAPK signaling pathway
+Basal Cell,hypoTH,ENSDARG00000077588,pdgfc,hypoth,MAPK signaling pathway
+Basal Cell,hypoTH,ENSDARG00000041502,tgfb1a,hypoth,MAPK signaling pathway
+Basal Cell,hypoTH,ENSDARG00000014050,ngfb,hypoth,MAPK signaling pathway
+Hypodermis,hypoTH,ENSDARG00000077588,pdgfc,hypoth,MAPK signaling pathway
+Iridophore,hypoTH,ENSDARG00000059043,ntf3,hypoth,MAPK signaling pathway
+Myofibroblast,hypoTH,ENSDARG00000077588,pdgfc,hypoth,MAPK signaling pathway
+Periderm,hypoTH,ENSDARG00000077588,pdgfc,hypoth,MAPK signaling pathway
+Periderm,hypoTH,ENSDARG00000059043,ntf3,hypoth,MAPK signaling pathway
+pre-SFC,hypoTH,ENSDARG00000077588,pdgfc,hypoth,MAPK signaling pathway
+Suprabasal Cell,hypoTH,ENSDARG00000041502,tgfb1a,hypoth,MAPK signaling pathway
+Suprabasal Cell,hypoTH,ENSDARG00000086778,pdgfba,hypoth,MAPK signaling pathway
+Suprabasal Cell,hypoTH,ENSDARG00000077677,pdgfd,hypoth,MAPK signaling pathway
+Suprabasal Cell,hypoTH,ENSDARG00000077588,pdgfc,hypoth,MAPK signaling pathway
+Basal Cell,hypoTH,ENSDARG00000010785,thbs1b,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Basal Cell,hypoTH,ENSDARG00000041502,tgfb1a,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Muscle,hypoTH,ENSDARG00000052846,fsta,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Periderm,hypoTH,ENSDARG00000010785,thbs1b,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Suprabasal Cell,hypoTH,ENSDARG00000041502,tgfb1a,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Suprabasal Cell,hypoTH,ENSDARG00000010785,thbs1b,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Basal Cell,hypoTH,ENSDARG00000041117,wnt2,hypoth,Wnt signaling pathway
+Dermal mesenchyme,hypoTH,ENSDARG00000014796,wnt11r,hypoth,Wnt signaling pathway
+Periderm,hypoTH,ENSDARG00000044827,wnt7aa,hypoth,Wnt signaling pathway
+Periderm,hypoTH,ENSDARG00000002483,wnt7ab,hypoth,Wnt signaling pathway
+pre-SFC,hypoTH,ENSDARG00000014796,wnt11r,hypoth,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000041430,bmp2b,hypoth,BMP signaling pathway
+Basal Cell,WT,ENSDARG00000012248,rgma,hypoth,BMP signaling pathway
+Basal Cell,WT,ENSDARG00000018260,bmp7a,hypoth,BMP signaling pathway
+Basal Cell,WT,ENSDARG00000015686,bmp6,hypoth,BMP signaling pathway
+Basal Cell,WT,ENSDARG00000103679,bmp16,hypoth,BMP signaling pathway
+Dermal mesenchyme,WT,ENSDARG00000057992,fstb,hypoth,BMP signaling pathway
+Hypodermis,WT,ENSDARG00000019995,bmp4,hypoth,BMP signaling pathway
+Hypodermis,WT,ENSDARG00000063230,bmp7b,hypoth,BMP signaling pathway
+Basal Cell,WT,ENSDARG00000013168,jag1b,hypoth,Delta-Notch signaling pathway
+Dermal mesenchyme,WT,ENSDARG00000053468,adam10a,hypoth,Delta-Notch signaling pathway
+Periderm,WT,ENSDARG00000021389,jag2b,hypoth,Delta-Notch signaling pathway
+Periderm,WT,ENSDARG00000104279,appa,hypoth,Delta-Notch signaling pathway
+Periderm,WT,ENSDARG00000013168,jag1b,hypoth,Delta-Notch signaling pathway
+Basal Cell,WT,ENSDARG00000037677,fgf24,hypoth,FGF signaling pathway
+Basal Cell,WT,ENSDARG00000035056,fgf13a,hypoth,FGF signaling pathway
+Basal Cell,WT,ENSDARG00000088048,fgf18a,hypoth,FGF signaling pathway
+Basal Cell,WT,ENSDARG00000027957,fgf12a,hypoth,FGF signaling pathway
+Hypodermis,WT,ENSDARG00000043962,fgf18b,hypoth,FGF signaling pathway
+Hypodermis,WT,ENSDARG00000019995,bmp4,hypoth,FGF signaling pathway
+Basal Cell,WT,ENSDARG00000068567,shha,hypoth,Hedgehog signaling pathway
+Basal Cell,WT,ENSDARG00000086778,pdgfba,hypoth,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000019367,tgfb3,hypoth,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000109371,pdgfaa,hypoth,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000027087,tgfb2,hypoth,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000098578,pdgfab,hypoth,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000088048,fgf18a,hypoth,MAPK signaling pathway
+Dermal mesenchyme,WT,ENSDARG00000027087,tgfb2,hypoth,MAPK signaling pathway
+Hypodermis,WT,ENSDARG00000027087,tgfb2,hypoth,MAPK signaling pathway
+Muscle,WT,ENSDARG00000027087,tgfb2,hypoth,MAPK signaling pathway
+PLL mantle cell,WT,ENSDARG00000027087,tgfb2,hypoth,MAPK signaling pathway
+Suprabasal Cell,WT,ENSDARG00000098497,hrasa,hypoth,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000019367,tgfb3,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Basal Cell,WT,ENSDARG00000027087,tgfb2,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Basal Cell,WT,ENSDARG00000052846,fsta,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Dermal mesenchyme,WT,ENSDARG00000027087,tgfb2,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Hypodermis,WT,ENSDARG00000027087,tgfb2,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Hypodermis,WT,ENSDARG00000019995,bmp4,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Muscle,WT,ENSDARG00000027087,tgfb2,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+PLL mantle cell,WT,ENSDARG00000027087,tgfb2,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Suprabasal Cell,WT,ENSDARG00000098497,hrasa,hypoth,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Basal Cell,WT,ENSDARG00000002483,wnt7ab,hypoth,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000073935,wnt6b,hypoth,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000058822,wnt3a,hypoth,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000044827,wnt7aa,hypoth,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000071107,wnt7bb,hypoth,Wnt signaling pathway
+Hypodermis,WT,ENSDARG00000071208,wnt4a,hypoth,Wnt signaling pathway
+Iridophore,WT,ENSDARG00000014796,wnt11r,hypoth,Wnt signaling pathway
+Suprabasal Cell,WT,ENSDARG00000104973,wnt5a,hypoth,Wnt signaling pathway
+Basal Cell,Nkt,ENSDARG00000012248,rgma,nkt,BMP signaling pathway
+Basal Cell,Nkt,ENSDARG00000079323,rgmb,nkt,BMP signaling pathway
+pre-SFC,Nkt,ENSDARG00000063230,bmp7b,nkt,BMP signaling pathway
+Basal Cell,Nkt,ENSDARG00000104279,appa,nkt,Delta-Notch signaling pathway
+Basal Cell,Nkt,ENSDARG00000088048,fgf18a,nkt,FGF signaling pathway
+pre-SFC,Nkt,ENSDARG00000088048,fgf18a,nkt,FGF signaling pathway
+pre-SFC,Nkt,ENSDARG00000037677,fgf24,nkt,FGF signaling pathway
+Basal Cell,Nkt,ENSDARG00000088048,fgf18a,nkt,MAPK signaling pathway
+Periderm,Nkt,ENSDARG00000027087,tgfb2,nkt,MAPK signaling pathway
+pre-SFC,Nkt,ENSDARG00000088048,fgf18a,nkt,MAPK signaling pathway
+pre-SFC,Nkt,ENSDARG00000077588,pdgfc,nkt,MAPK signaling pathway
+Periderm,Nkt,ENSDARG00000027087,tgfb2,nkt,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Periderm,Nkt,ENSDARG00000002483,wnt7ab,nkt,Wnt signaling pathway
+pre-SFC,Nkt,ENSDARG00000071208,wnt4a,nkt,Wnt signaling pathway
+pre-SFC,Nkt,ENSDARG00000094973,wnt16,nkt,Wnt signaling pathway
+Suprabasal Cell,Nkt,ENSDARG00000002483,wnt7ab,nkt,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000041430,bmp2b,nkt,BMP signaling pathway
+Basal Cell,WT,ENSDARG00000015686,bmp6,nkt,BMP signaling pathway
+Basal Cell,WT,ENSDARG00000018260,bmp7a,nkt,BMP signaling pathway
+Dermal mesenchyme,WT,ENSDARG00000057992,fstb,nkt,BMP signaling pathway
+Suprabasal Cell,WT,ENSDARG00000063230,bmp7b,nkt,BMP signaling pathway
+Periderm,WT,ENSDARG00000070425,dll4,nkt,Delta-Notch signaling pathway
+Periderm,WT,ENSDARG00000104279,appa,nkt,Delta-Notch signaling pathway
+Periderm,WT,ENSDARG00000013168,jag1b,nkt,Delta-Notch signaling pathway
+Basal Cell,WT,ENSDARG00000037677,fgf24,nkt,FGF signaling pathway
+Basal Cell,WT,ENSDARG00000068567,shha,nkt,Hedgehog signaling pathway
+Basal Cell,WT,ENSDARG00000077588,pdgfc,nkt,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000109371,pdgfaa,nkt,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000019367,tgfb3,nkt,MAPK signaling pathway
+Basal Cell,WT,ENSDARG00000019367,tgfb3,nkt,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Basal Cell,WT,ENSDARG00000052846,fsta,nkt,Transforming Growth Factor (TGF) Beta Signaling Pathway
+Basal Cell,WT,ENSDARG00000044827,wnt7aa,nkt,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000002483,wnt7ab,nkt,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000038990,wnt3,nkt,Wnt signaling pathway
+Basal Cell,WT,ENSDARG00000071107,wnt7bb,nkt,Wnt signaling pathway
+Suprabasal Cell,WT,ENSDARG00000104973,wnt5a,nkt,Wnt signaling pathway
+Suprabasal Cell,WT,ENSDARG00000044827,wnt7aa,nkt,Wnt signaling pathway
